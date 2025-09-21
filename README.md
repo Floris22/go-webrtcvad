@@ -1,12 +1,12 @@
 # go-webrtcvad
 
-[![Go Tests](https://github.com/baabaaox/go-webrtcvad/actions/workflows/go-tests.yml/badge.svg)](https://github.com/baabaaox/go-webrtcvad/actions/workflows/go-tests.yml)
-
 I have ported VAD from latest WebRTC lkgr at 20250207.
 
 This project rewrite from [maxhawkins/go-webrtcvad](https://github.com/maxhawkins/go-webrtcvad).
 
 The WebRTC source code download form [WebRTC lkgr commit [8e55dca89f4e39241f9e3ecd25ab0ebbf5d1ab37]](https://webrtc.googlesource.com/src/+/8e55dca89f4e39241f9e3ecd25ab0ebbf5d1ab37).
+
+Credits to [baabaaox/go-webrtcvad](https://github.com/baabaaox/go-webrtcvad).
 
 ## Installation
 
@@ -25,7 +25,7 @@ import (
 	"io"
 	"log"
 	"os"
-	"github.com/baabaaox/go-webrtcvad"
+	"github.com/Floris22/go-webrtcvad"
 )
 
 const (
