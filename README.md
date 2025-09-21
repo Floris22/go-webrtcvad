@@ -11,7 +11,7 @@ Credits to [baabaaox/go-webrtcvad](https://github.com/baabaaox/go-webrtcvad).
 ## Installation
 
 ```shell
-go get github.com/baabaaox/go-webrtcvad
+go get github.com/Floris22/go-webrtcvad
 ```
 
 ## Example
