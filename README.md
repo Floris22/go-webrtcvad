@@ -2,7 +2,7 @@
 
 I have ported VAD from latest WebRTC lkgr at 20250207.
 
-This project rewrite from [maxhawkins/go-webrtcvad](https://github.com/maxhawkins/go-webrtcvad).
+This project rewrites from [maxhawkins/go-webrtcvad](https://github.com/maxhawkins/go-webrtcvad).
 
 The WebRTC source code download form [WebRTC lkgr commit [8e55dca89f4e39241f9e3ecd25ab0ebbf5d1ab37]](https://webrtc.googlesource.com/src/+/8e55dca89f4e39241f9e3ecd25ab0ebbf5d1ab37).
 
